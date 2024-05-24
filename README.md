@@ -12,8 +12,11 @@
 10. Aula 10
 11. Aula 11
 12. Aula 12
+    Manupulação de arquivos texto abrir e ler.
 13. Aula 13
+    Importando e instalando bibliotecas.
 14. Aula 14
+	Conteudo de como criar Classes no Python.
 
 
 
