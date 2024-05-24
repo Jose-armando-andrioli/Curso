@@ -1,6 +1,5 @@
-**# Este Curso destina-se a iniciantes em Python
-Composto de 14 aulas #
-**
+## **Este Curso destina-se a iniciantes em Python Composto de 14 aulas** ##
+
 1. Aula 01
 2. Aula 02
 3. Aula 03
